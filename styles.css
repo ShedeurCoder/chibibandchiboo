@@ -1,0 +1,11 @@
+form {
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo {
+    text-align: center;
+    margin: 5%;
+    font-size: 300%;
+}
