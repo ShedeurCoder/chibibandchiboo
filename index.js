@@ -1,6 +1,6 @@
 document.getElementById('searchf').onsubmit = () => {
     const sv = document.getElementById("search").value;
-    window.location.href = "https://www.google.com/search?q=" + sv.replace(" ", "+");
+    window.location.href = "https://duckduckgo.com/?q=" + sv.replace(" ", "+");
     return false;
 }
 document.getElementById('urlf').onsubmit = () => {
